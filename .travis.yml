@@ -9,7 +9,6 @@ language:
 
 script:
   - ./run.sh
-
-
+  
 notifications:
   email: false
