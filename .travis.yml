@@ -1,0 +1,13 @@
+sudo: false
+
+os: osx
+
+language:
+  - python
+
+script:
+  - ./run.sh
+
+
+notifications:
+  email: false
